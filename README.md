@@ -27,6 +27,15 @@ Pretty simple, right? Well this is where it gets interesting:
 Before adding the modifications that the customer wishes you to implement, you need to refactor the GildedRose class to improve its readability and understandability.
 Feel free to make any changes to the `GildedRose.updateQuality` method and add any new code as long as everything still works correctly. However, do not alter the `Item` class or `Items` property.
 
+## Update the README
+Write a short section below documenting your refactoring. It should:
+
+- A. Identify at least two refactoring opportunities in the original system and classify them as code smells, design problems, or metric-related structural issues.
+- B. Describe the main refactoring operations you applied and which problem each operation addresses.
+- C. Explain how the resulting design improves the structural quality of the system.
+- D. Describe one refactoring decision where multiple solutions were possible and justify the solution you selected.
+
+
 ## Suggested attribution
 This work is adapted from [@TerryHughes](https://twitter.com/TerryHughes), [@NotMyself](https://twitter.com/NotMyself) and [@emilybache](https://twitter.com/emilybache).
 
